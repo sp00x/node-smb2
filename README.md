@@ -1,3 +1,5 @@
+# smb2,support ntlm2.Base project https://github.com/Node-SMB/marsaud-smb2
+
 # SMB2 Client for Node.js
 
 [![Node compatibility](https://badgen.net/npm/node/@marsaud/smb2)](https://npmjs.org/package/@marsaud/smb2) [![License](https://badgen.net/npm/license/@marsaud/smb2)](https://npmjs.org/package/@marsaud/smb2) [![PackagePhobia](https://badgen.net/packagephobia/install/@marsaud/smb2)](https://packagephobia.now.sh/result?p=@marsaud/smb2)
@@ -13,7 +15,7 @@ The development is still at an experimental stage and should not be yet consider
 ## Installation
 
 ```bash
-npm install -S @marsaud/smb2
+npm install -S v9u-smb2
 ```
 
 ## API
