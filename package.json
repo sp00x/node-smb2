@@ -2,7 +2,7 @@
   "name": "v9u-smb2",
   "description": "smb2,support ntlm2.Base project https://github.com/Node-SMB/marsaud-smb2",
   "homepage": "https://github.com/v9u/v9u-smb2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "node": ">=10"
   },
@@ -18,7 +18,7 @@
     "url": "https://github.com/v9u/v9u-smb2"
   },
   "dependencies": {
-    "ntlm2": "~0.1.9",
+    "ntlm2": "^0.2.9",
     "readable-stream": "^3.6.0"
   },
   "keywords": [
@@ -45,10 +45,10 @@
     "get-stream": "^5.2.0",
     "golike-defer": "^0.5.1",
     "husky": "^2.7.0",
-    "lint-staged": "^8.2.1",
+    "lint-staged": "^13.0.3",
     "prettier": "^1.19.1",
     "promise-toolbox": "^0.18.1",
-    "tap": "^13.1.11"
+    "tap": "^16.3.0"
   },
   "license": "MIT",
   "husky": {
