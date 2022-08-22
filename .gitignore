@@ -2,4 +2,8 @@
 node_modules
 test.js
 
+
+/test/readdir.js
+/test/readFile.js
 /test/config.toml
+.vscode/
