@@ -2,9 +2,9 @@
   "name": "v9u-smb2",
   "description": "smb2,support ntlm2.Base project https://github.com/Node-SMB/marsaud-smb2",
   "homepage": "https://github.com/v9u/v9u-smb2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
-    "node": ">=5.10"
+    "node": ">=10"
   },
   "author": {
     "name": "v9u",
