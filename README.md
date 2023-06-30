@@ -1,4 +1,6 @@
-# smb2,support ntlm2.Base project https://github.com/Node-SMB/marsaud-smb2
+# Diff
+
+[v9u-smb2](https://github.com/v9u/v9u-smb2) with Node v17 patch.
 
 # SMB2 Client for Node.js
 
