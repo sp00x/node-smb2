@@ -1,12 +1,8 @@
-# Diff
-
-[v9u-smb2](https://github.com/v9u/v9u-smb2) with Node v17 patch.
-
 # SMB2 Client for Node.js
 
-[![Node compatibility](https://badgen.net/npm/node/@marsaud/smb2)](https://npmjs.org/package/@marsaud/smb2) [![License](https://badgen.net/npm/license/@marsaud/smb2)](https://npmjs.org/package/@marsaud/smb2) [![PackagePhobia](https://badgen.net/packagephobia/install/@marsaud/smb2)](https://packagephobia.now.sh/result?p=@marsaud/smb2)
+[![Node compatibility](https://badgen.net/npm/node/@tryjsky/v9u-smb2)](https://npmjs.org/package/@tryjsky/v9u-smb2) [![License](https://badgen.net/npm/license/@tryjsky/v9u-smb2)](https://npmjs.org/package/@tryjsky/v9u-smb2) [![PackagePhobia](https://badgen.net/packagephobia/install/@tryjsky/v9u-smb2)](https://packagephobia.now.sh/result?p=@tryjsky/v9u-smb2)
 
-[![Package Version](https://badgen.net/npm/v/@marsaud/smb2)](https://npmjs.org/package/@marsaud/smb2) [![Build Status](https://travis-ci.org/Node-SMB/marsaud-smb2.png?branch=master)](https://travis-ci.org/Node-SMB/marsaud-smb2) [![Latest Commit](https://badgen.net/github/last-commit/Node-SMB/marsaud-smb2)](https://github.com/Node-SMB/marsaud-smb2/commits/master)
+[![Package Version](https://badgen.net/npm/v/@tryjsky/v9u-smb2)](https://npmjs.org/package/@tryjsky/v9u-smb2) [![Latest Commit](https://badgen.net/github/last-commit/tryjsky/v9u-smb2)](https://github.com/tryjsky/v9u-smb2/commits/master)
 
 ## Introduction
 
@@ -14,10 +10,14 @@ This library is a simple implementation of SMB2 for Node.js. It allows you to ac
 
 The development is still at an experimental stage and should not be yet considered for production environment.
 
+## Differences from the original repository
+
+[v9u-smb2](https://github.com/v9u/v9u-smb2) with Node v17 patch.
+
 ## Installation
 
 ```bash
-npm install -S v9u-smb2
+npm install @tryjsky/v9u-smb2
 ```
 
 ## API
@@ -59,7 +59,7 @@ Example:
 
 ```javascript
 // load the library
-var SMB2 = require('@marsaud/smb2');
+var SMB2 = require('@tryjsky/v9u-smb2');
 
 // create an SMB2 instance
 var smb2Client = new SMB2({
