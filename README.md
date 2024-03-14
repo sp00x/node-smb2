@@ -12,7 +12,8 @@ The development is still at an experimental stage and should not be yet consider
 
 ## Differences from the original repository
 
-[v9u-smb2](https://github.com/v9u/v9u-smb2) with Node v17 patch.
+* Fork of [@tryjsky/v9u-smb2](https://github.com/tryjsky/v9u-smb2) to fix some issues with Dell / Isilon OneFS compatibility
+    * [v9u-smb2](https://github.com/v9u/v9u-smb2) with Node v17 patch.
 
 ## Installation
 
